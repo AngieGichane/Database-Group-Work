@@ -101,11 +101,6 @@ To set up the database:
 - Catherine Zena.
 - Faith Kendi
 
-## Submission Information
-
-- **Due Date**: April 13, 2025, 11:59 PM EAT
-- **Submission Method**: GitHub repository link
-
 ## License
 
 This project is submitted as coursework for Database Design & Programming with SQL.
